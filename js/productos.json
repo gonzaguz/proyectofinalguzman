@@ -3,7 +3,7 @@
         "id": "producto-1",
         "titulo": "AURICULAR BLUETOOTH MI AIRdOTS 5.0",
         "precio": 6000,
-        "imagen": "./assets/producto1.jpeg"
+        "imagen": "/assets/producto1.jpeg"
 
     },
     {
